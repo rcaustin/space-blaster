@@ -31,8 +31,11 @@ https://opengameart.org/content/epic-news-theme-beyond-the-clouds-v2
 
 
 https://matthewpablo.com/
+
 Released under CC-BY 3.0
+
 No Changes Were Made to the Piece
+
 https://creativecommons.org/licenses/by/3.0/
 ###################################################################################
 
