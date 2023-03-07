@@ -1,0 +1,5 @@
+explosion.wav is bomb_explosion_8bit by Luke.RUSTLTD
+Released to the Public Domain under CC0
+
+laser.wav is laser4.wav by dklon
+Released under CC-BY 3.0
